@@ -1,0 +1,147 @@
+﻿namenecklace.swf Movie Report
+------------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+       930    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS5</xmp:CreatorTool> <xmp:CreateDate>2010-09-14T21:48:48+01:00</xmp:CreateDate> <xmp:MetadataDate>2010-09-17T05:21:25+01:00</xmp:MetadataDate> <xmp:ModifyDate>2010-09-17T05:21:25+01:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:AB15708C0FC2DF1181D3CC72255DCDD9</stRef:instanceID> <stRef:documentID>xmp.did:1C6039D741C0DF11B0A0F02B0266E5F3</stRef:documentID> <stRef:originalDocumentID>xmp.did:1C6039D741C0DF11B0A0F02B0266E5F3</stRef:originalDocumentID> </xmpMM:DerivedFrom> <xmpMM:DocumentID>xmp.did:6F54D40813C2DF1181D3CC72255DCDD9</xmpMM:DocumentID> <xmpMM:InstanceID>xmp.iid:6F54D40813C2DF1181D3CC72255DCDD9</xmpMM:InstanceID> <xmpMM:OriginalDocumentID>xmp.did:1C6039D741C0DF11B0A0F02B0266E5F3</xmpMM:OriginalDocumentID> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1          61788          61788    Scene 1 (AS 3.0 Classes Export Frame)
+      2              1          61789    Scene 1
+      3              1          61790    Scene 1
+      4              1          61791    Scene 1
+      5              1          61792    Scene 1
+      6              1          61793    Scene 1
+      7              1          61794    Scene 1
+      8              1          61795    Scene 1
+      9              1          61796    Scene 1
+     10              1          61797    Scene 1
+     11              1          61798    Scene 1
+     12              1          61799    Scene 1
+     13              1          61800    Scene 1
+     14              1          61801    Scene 1
+     15              1          61802    Scene 1
+     16              1          61803    Scene 1
+     17              1          61804    Scene 1
+     18              1          61805    Scene 1
+     19              1          61806    Scene 1
+     20              1          61807    Scene 1
+     21              1          61808    Scene 1
+     22              1          61809    Scene 1
+     23              1          61810    Scene 1
+     24              1          61811    Scene 1
+     25              1          61812    Scene 1
+     26              1          61813    Scene 1
+     27              1          61814    Scene 1
+     28              1          61815    Scene 1
+     29              1          61816    Scene 1
+     30              1          61817    Scene 1
+     31              1          61818    Scene 1
+     32              1          61819    Scene 1
+     33              1          61820    Scene 1
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+Scene 1              0             0                 18308
+
+Symbol              Shape Bytes    Text Bytes    ActionScript Bytes
+----------------    -----------    ----------    ------------------
+Symbol 18                     0            42                     0
+Symbol 17                     0            42                     0
+Symbol 16                     0            43                     0
+Symbol 15                     0            42                     0
+bg                            0             0                     0
+border                       51             0                     0
+back                         29             0                     0
+Compound Shape               68             0                     0
+Compound Shape_1             83             0                     0
+Compound Shape_2             90             0                     0
+backMC                       44            39                     0
+billboard_mc                493             0                     0
+styleBg_mc                    0             0                     0
+bloody_mc                   614             0                     0
+FontsMC                    8463             0                     0
+Original_cA                 139             0                     0
+Original_cB                 134             0                     0
+Original_cC                 108             0                     0
+Original_cD                 111             0                     0
+Original_cE                 152             0                     0
+Original_a                  107             0                     0
+Original_b                  114             0                     0
+Original_c                   85             0                     0
+Original_d                  111             0                     0
+Original_e                  109             0                     0
+Symbol 3                    124             0                     0
+Symbol 4                    149             0                     0
+Symbol 5                    110             0                     0
+Symbol 6                    105             0                     0
+Symbol 7                    158             0                     0
+Symbol 9                    111             0                     0
+Symbol 10                    85             0                     0
+Symbol 11                   122             0                     0
+Symbol 12                   100             0                     0
+Symbol 8                    126             0                     0
+Symbol 13                   161             0                     0
+frame_mc                   3115             0                     0
+nextMC                       44            40                     0
+heartMC                      53             0                     0
+ladybug_mc                  692             0                     0
+right_reg1                    0             0                     0
+original_mc                 432             0                     0
+Step1MC                      44           588                     0
+Step2MC                       0           202                     0
+sundae_mc                   636             0                     0
+Step3MC                       0           182                     0
+Symbol 1                     38             0                     0
+Symbol 2                     32             0                     0
+Symbol 14                     0             0                     0
+Step4MC                       0           254                     0
+
+Font Name                   Bytes         Characters
+------------------------    ----------    ----------
+HelveticaNeueLTStd-Roman         12532     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~£ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+HelveticaNeueLTStd-Md             6944     ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+ArialMT                           1390     !Cabcehklorsuy
+
+ActionScript Bytes    Location
+------------------    --------
+             18308    Scene 1:Frame 1
+
+
+
+

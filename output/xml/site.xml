@@ -1,0 +1,1567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<site>
+
+	<settings>
+
+		<cost>27.50</cost>
+
+	</settings>
+
+
+
+	<pages>
+
+	
+
+		
+
+	
+
+		<page>
+
+			<title><![CDATA[The original acrylic name 
+			
+			 by Tatty Devine]]></title>	
+
+			<line1><![CDATA[Custom made in our London studio.]]></line1>	
+
+			<line2><![CDATA[On its way to you within two weeks.]]></line2>	
+
+			<line3><![CDATA[ ]]></line3>	
+
+			<type>step1</type>
+
+			<defaultThumb>default.jpg</defaultThumb>
+
+		</page>
+
+		
+
+		<page>
+
+			<title><![CDATA[Choose your lettering style!]]></title>	
+
+			<type>step2</type>
+
+			<defaultThumb>default.jpg</defaultThumb>
+
+			<styles>				
+
+				<style>
+
+					<name>Original</name>
+
+					<isDefault>true</isDefault>
+
+					<thumb>original.jpg</thumb>
+					<id>82</id>
+
+					<cost>0</cost>	
+
+					<earring>yes</earring>				
+
+				</style>
+
+				
+
+				<style>
+
+					<name>Ladybug</name>
+
+					<isDefault>false</isDefault>
+					<id>125</id>
+					<thumb>ladybug.jpg</thumb>
+
+					<cost>0</cost>		
+
+					<earring>yes</earring>			
+
+				</style>	
+
+				
+
+				<style>
+
+					<name>Sundae</name>
+
+					<isDefault>false</isDefault>
+
+					<thumb>sundae.jpg</thumb>
+					<id>126</id>
+					<cost>0</cost>		
+
+					<earring>yes</earring>			
+
+				</style>	
+
+				
+
+				<style>
+
+					<name>Billboard</name>
+
+					<isDefault>false</isDefault>
+
+					<thumb>billboard.jpg</thumb>
+					<id>80</id>
+
+					<cost>0</cost>		
+
+					<earring>yes</earring>			
+
+				</style>	
+
+				
+
+				<style>
+
+					<name>Bloody</name>
+
+					<isDefault>false</isDefault>
+
+					<thumb>ladybug.jpg</thumb>
+					<id>137</id>
+					<cost>0</cost>		
+
+					<earring>no</earring>			
+
+				</style>	
+
+		
+
+			</styles>	
+
+			
+
+			
+
+		</page>
+
+		
+
+		<page>
+
+			<title><![CDATA[Choose your colour!!]]></title>	
+
+			<type>step3</type>
+
+			<defaultThumb>default.jpg</defaultThumb>
+
+			<styles>
+
+
+   <style>
+
+
+
+                    <name>Red</name>
+
+<isDefault>false</isDefault>
+<id>2</id>
+
+                    <colour>
+
+
+
+                        <type>plain</type>
+
+
+
+                        <hex> D81E05</hex>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>red.jpg</thumb>
+
+
+
+                    <cost>0</cost>               
+
+
+
+                </style> 
+
+
+
+
+   <style>
+
+
+
+                    <name>Orange</name>
+					<id>29</id>
+
+<isDefault>false</isDefault>
+
+                    <colour>
+
+
+
+                        <type>plain</type>
+
+
+
+                        <hex> FF3D00</hex>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>orange.jpg</thumb>
+
+
+
+                    <cost>0</cost>               
+
+
+
+                </style> 
+
+ 
+
+
+
+   <style>
+
+
+
+                    <name>Yellow</name>
+					<id>9</id>
+
+<isDefault>false</isDefault>
+
+                    <colour>
+
+
+
+                        <type>plain</type>
+
+
+
+                        <hex> F3D311</hex>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>yellow.jpg</thumb>
+
+
+
+                    <cost>0</cost>               
+
+
+
+                </style> 
+
+ 
+
+
+
+   <style>
+
+
+
+                    <name>Lime green</name>
+					<id>32</id>
+
+<isDefault>false</isDefault>
+
+                    <colour>
+
+
+
+                        <type>plain</type>
+
+
+
+                        <hex> 83B218</hex>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>limegreen.jpg</thumb>
+
+
+
+                    <cost>0</cost>               
+
+
+
+                </style> 
+
+ 
+
+
+
+   <style>
+
+
+
+                    <name>Green</name>
+					<id>6</id>
+
+<isDefault>false</isDefault>
+
+                    <colour>
+
+
+
+                        <type>plain</type>
+
+
+
+                        <hex> 0F7830</hex>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>green.jpg</thumb>
+
+
+
+                    <cost>0</cost>               
+
+
+
+                </style> 
+
+ 
+
+				
+
+   <style>
+
+
+
+                    <name>Baby blue</name>
+					<id>127</id>
+
+
+
+                    <colour>
+
+
+
+                        <type>plain</type>
+
+
+
+                        <hex> 80ABD9</hex>
+
+
+
+
+
+                    </colour>
+
+					<isDefault>false</isDefault>
+
+                    <thumb>babyblue.jpg</thumb>
+
+
+
+                    <cost>0</cost>               
+
+
+
+                </style> 
+
+ 
+
+
+
+   <style>
+
+
+
+                    <name>Bright blue</name>
+
+<isDefault>false</isDefault>
+<id>128</id>
+
+                    <colour>
+
+
+
+                        <type>plain</type>
+
+
+
+                        <hex> 007ABD</hex>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>brightblue.jpg</thumb>
+
+
+
+                    <cost>0</cost>               
+
+
+
+                </style> 
+
+ 
+
+
+
+   <style>
+
+
+
+                    <name>Purple</name>
+					<id>131</id>
+
+<isDefault>false</isDefault>
+
+                    <colour>
+
+
+
+                        <type>plain</type>
+
+
+
+                        <hex> 471180</hex>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>purple.jpg</thumb>
+
+
+
+                    <cost>0</cost>               
+
+
+
+                </style> 
+
+ 
+
+
+
+   <style>
+
+
+
+                    <name>Navy blue</name>
+<id>35</id>
+<isDefault>false</isDefault>
+
+                    <colour>
+
+
+
+                        <type>plain</type>
+
+
+
+                        <hex> 141654</hex>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>navyblue.jpg</thumb>
+
+
+
+                    <cost>0</cost>               
+
+
+
+                </style> 
+
+ 
+
+
+
+   <style>
+
+
+
+                    <name>Pale pink</name>
+					<id>84</id>
+
+<isDefault>false</isDefault>
+
+                    <colour>
+
+
+
+                        <type>plain</type>
+
+
+
+                        <hex> E39CBA</hex>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>palepink.jpg</thumb>
+
+
+
+                    <cost>0</cost>               
+
+
+
+                </style> 
+
+ 
+
+
+
+   <style>
+
+
+
+                    <name>Bright pink</name>
+					<id>77</id>
+
+<isDefault>false</isDefault>
+
+                    <colour>
+
+
+
+                        <type>plain</type>
+
+
+
+                        <hex> CF1463</hex>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>brightpink.jpg</thumb>
+
+
+
+                    <cost>0</cost>               
+
+
+
+                </style> 
+
+ 
+
+
+
+   <style>
+
+
+
+                    <name>Maroon</name>
+
+<id>36</id>
+<isDefault>false</isDefault>
+
+                    <colour>
+
+
+
+                        <type>plain</type>
+
+
+
+                        <hex> 5B2626</hex>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>maroon.jpg</thumb>
+
+
+
+                    <cost>0</cost>               
+
+
+
+                </style> 
+
+ 
+
+
+
+   <style>
+
+
+
+                    <name>Cream</name>
+<id>31</id>
+<isDefault>false</isDefault>
+
+                    <colour>
+
+
+
+                        <type>plain</type>
+
+
+
+                        <hex> F1E3BB</hex>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>cream.jpg</thumb>
+
+
+
+                    <cost>0</cost>               
+
+
+
+                </style> 
+
+ 
+
+
+
+   <style>
+
+
+
+                    <name>White</name>
+					
+					<id>15</id>
+
+<isDefault>false</isDefault>
+
+                    <colour>
+
+
+
+                        <type>plain</type>
+
+
+
+                        <hex> ffffff</hex>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>white.jpg</thumb>
+
+
+
+                    <cost>0</cost>               
+
+
+
+                </style> 
+
+
+
+
+   <style>
+
+
+
+                    <name>Black</name>
+
+<id>14</id>
+
+                    <colour>
+
+
+
+                        <type>plain</type>
+
+
+
+                        <hex> 000000</hex>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>black.jpg</thumb>
+
+					<isDefault>true</isDefault>
+
+                    <cost>0</cost>               
+
+
+
+                </style> 
+
+ 
+
+
+   <style>
+
+
+
+                    <name>Matte gold</name>
+					<id>129</id>
+
+<isDefault>false</isDefault>
+
+                    <colour>
+
+
+
+                        <type>plain</type>
+
+
+
+                        <hex> C3AB7B</hex>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>mattegold.jpg</thumb>
+
+
+
+                    <cost>0</cost>               
+
+
+
+                </style> 
+
+ 
+
+
+
+   <style>
+
+
+
+                    <name>Matte silver</name>
+					<id>130</id>
+
+<isDefault>false</isDefault>
+
+                    <colour>
+
+
+
+                        <type>plain</type>
+
+
+
+                        <hex> B8B8B8</hex>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>mattesilver.jpg</thumb>
+
+
+
+                    <cost>0</cost>               
+
+
+
+                </style> 
+
+ 
+
+
+
+   <style>
+
+
+
+                    <name>Clear</name>
+					<id>55</id>
+
+		<isDefault>false</isDefault>
+
+                    <colour>
+
+                        <type>plain</type>
+
+
+
+                        <hex> f5f5f5</hex>
+
+						<texture>clear.jpg</texture>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>clear.jpg</thumb>
+
+
+
+                    <cost>0</cost>               
+
+
+
+                </style> 
+
+ 
+
+ 
+
+				<style>
+
+
+
+                    <name>Mirror Gold</name>
+<id>85</id>
+<isDefault>false</isDefault>
+
+                    <colour>
+
+
+
+                        <type>mirror</type>
+
+
+
+                        <hex> C1A875</hex>
+
+<texture>mirror_gold.jpg</texture>
+
+                    </colour>
+
+
+
+                    <thumb>mirror_gold.jpg</thumb>
+
+
+
+                    <cost>10</cost>               
+
+
+
+                </style>
+
+
+
+
+
+		
+
+				<style>
+
+
+
+                    <name>Mirror Silver</name>
+					<id>86</id>
+
+					<isDefault>false</isDefault>
+
+                    <colour>
+
+
+
+                        <type>mirror</type>
+
+
+
+                        <hex>9AA0A5</hex>
+
+		<texture>mirror_silver.jpg</texture>
+
+                    </colour>
+
+
+
+                    <thumb>mirror_silver.jpg</thumb>
+
+
+
+                    <cost>10</cost>               
+
+
+
+                </style>
+
+
+
+
+
+
+
+				<style>
+
+
+
+                    <name>Glitter Gold</name>
+					<id>54</id>
+
+<isDefault>false</isDefault>
+
+                    <colour>
+
+						<hex>845124</hex>
+
+                        <type>glitter</type>
+
+
+
+                        <texture>glitter_gold.jpg</texture>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>glitter_ gold.jpg</thumb>
+
+
+
+                    <cost>10</cost>               
+
+
+
+                </style>
+
+
+
+
+
+				<style>
+
+
+
+                    <name>Glitter Silver</name>
+					<id>135</id>
+
+<isDefault>false</isDefault>
+
+                    <colour>
+
+						<hex>555555</hex>
+
+
+
+
+
+                        <type>glitter</type>
+
+
+
+                        <texture>glitter_silver.jpg</texture>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>glitter_silver.jpg</thumb>
+
+
+
+                    <cost>10</cost>               
+
+
+
+                </style>
+
+
+
+
+
+				<style>
+
+
+
+                    <name>Glitter Red</name>
+					<id>51</id>
+
+<isDefault>false</isDefault>
+
+	                    <colour>
+
+						<hex>891305</hex>
+
+                        <type>glitter</type>
+
+
+
+                        <texture>glitter_red.jpg</texture>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>glitter_red.jpg</thumb>
+
+
+
+                    <cost>10</cost>               
+
+
+
+                </style>
+
+
+
+
+
+				<style>
+
+
+
+                    <name>Glitter Purple</name>
+					<id>133</id>
+
+<isDefault>false</isDefault>
+
+                    <colour>
+
+						<hex>701B44</hex>	
+
+                        <type>glitter</type>
+
+
+
+                        <texture>glitter_purple.jpg</texture>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>glitter_purple.jpg</thumb>
+
+
+
+                    <cost>10</cost>               
+
+
+
+                </style>
+
+				
+
+				<style>
+
+
+
+                    <name>Glitter Pink</name>
+
+<isDefault>false</isDefault>
+<id>47</id>
+                    <colour>
+
+                    <hex>74211B</hex>
+
+
+
+                        <type>glitter</type>
+
+
+
+                        <texture>glitter_pink.jpg</texture>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>glitter_pink.jpg</thumb>
+
+
+
+                    <cost>10</cost>               
+
+
+
+                </style>
+
+				
+
+
+				<style>
+
+
+
+                    <name>Glitter Blue</name>
+
+<isDefault>false</isDefault>
+<id>136</id>
+
+                    <colour>
+
+						<hex>01265D</hex>
+
+                        <type>glitter</type>
+
+
+
+                        <texture>glitter_blue.jpg</texture>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>glitter_blue.jpg</thumb>
+
+
+
+                    <cost>10</cost>               
+
+
+
+                </style>
+
+				
+
+   				<style>
+
+
+
+                    <name>Glitter Aqua</name>
+
+<isDefault>false</isDefault>
+<id>134</id>
+
+                    <colour>
+
+						<hex>1E5F63</hex>
+
+                        <type>glitter</type>
+
+
+
+                        <texture>glitter_aqua.jpg</texture>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>glitter_aqua.jpg</thumb>
+
+
+
+                    <cost>10</cost>               
+
+
+
+                </style>
+
+
+
+
+
+				<style>
+
+
+
+                    <name>Glitter Black</name>
+<id>132</id>
+<isDefault>false</isDefault>
+
+                    <colour>
+
+                    	<hex>242021</hex>
+
+
+
+                        <type>glitter</type>
+
+
+
+                        <texture>glitter_black.jpg</texture>
+
+
+
+                    </colour>
+
+
+
+                    <thumb>glitter_black.jpg</thumb>
+
+
+
+                    <cost>10</cost>               
+
+
+
+                </style>
+
+
+	 
+
+				</styles>
+
+		</page>
+
+		
+
+		
+
+		           
+
+
+
+		<page>
+
+			<title><![CDATA[Choose your charm!]]></title>	
+
+			<type>step4</type>
+
+			<defaultThumb>default.jpg</defaultThumb>
+
+			<styles>	
+
+			
+
+				<style>
+
+					<name>Heart</name>
+					<id>23</id>
+
+					<isDefault>true</isDefault>>
+
+					<thumb>heart.jpg</thumb>
+
+					<cost>0</cost>				
+
+				</style>
+
+				
+
+							
+
+				<style>
+
+					<name>Bolt</name>
+					<id>83</id>
+
+					<thumb>bolt.jpg</thumb>
+
+					<cost>0</cost>				
+
+				</style>
+
+				
+
+			
+
+				<style>
+
+					<name>Star</name>
+					<id>24</id>
+
+					<thumb>star.jpg</thumb>
+
+					<cost>0</cost>				
+
+				</style>
+
+				
+
+				<style>
+
+					<name>Anchor</name>
+
+					<thumb>anchor.jpg</thumb>
+
+					<cost>0</cost>				
+
+				</style>
+
+				
+
+				<style>
+
+					<name>None</name>
+					<id>25</id>
+
+					<thumb></thumb>
+
+					<cost>0</cost>				
+
+				</style>
+
+				
+
+
+
+			</styles>
+
+		</page>
+
+		
+
+		<page>
+
+			<title><![CDATA[Make it big?]]></title>	
+
+			<line1>Make your name BIG for just £10 extra!</line1>
+
+			<line2>We'll increase the size of your name up to a</line2>
+
+			<line3>maximum of 3cm high or 11cm wide.</line3>
+
+			<type>step5</type>
+
+			<defaultThumb>default.jpg</defaultThumb>
+
+			<styles>				
+
+				<style>
+
+					<name>Big</name>
+
+					<thumb>big.jpg</thumb>
+					<id>139</id>
+
+					<isDefault>false</isDefault>
+
+					<cost>10</cost>				
+
+				</style>
+
+				<style>
+
+					<name>Standard</name>
+
+<id>138</id>
+
+					<isDefault>true</isDefault>
+
+					<thumb>standard_size.jpg</thumb>
+
+					<cost>0</cost>				
+
+				</style>
+
+			</styles>
+
+		</page>
+
+			<page>
+
+			<title><![CDATA[Choose your Chain]]></title>	
+
+			<line1><![CDATA[Call our chains carry the authentic Tatty Devine plectrum at the clasp. Our silver chain is sterling silver, we also offer 
+
+gold-coloured chain (not real gold!) and black.]]></line1>
+
+	
+
+			<type>step6</type>
+
+			<defaultThumb>default.jpg</defaultThumb>
+
+			
+
+			<styles>			
+
+							<style>
+
+					<name>Black</name>
+<id>37</id>
+					<isDefault>false</isDefault>
+
+					<thumb>black.jpg</thumb>
+
+					<cost>0</cost>				
+
+				</style>	
+
+				<style>
+
+					<name>Silver</name>
+					<id>63</id>
+
+					<thumb>silver.jpg</thumb>
+
+					<isDefault>true</isDefault>
+
+					<cost>0</cost>				
+
+				</style>
+
+				<style>
+
+					<name>Gold</name>
+					<id>64</id>
+
+					<isDefault>false</isDefault>
+
+					<thumb>gold.jpg</thumb>
+
+					<cost>0</cost>				
+
+				</style>
+
+
+
+			</styles>
+
+		</page>
+
+		
+
+		<page>
+
+			<title><![CDATA[Add charm earrings!]]></title>	
+
+			<line1><![CDATA[Create a special matching set. These are just £12.50, £2.50 less than the usual price.]]></line1>
+
+	
+
+			<type>step7</type>
+
+			<defaultThumb>default.jpg</defaultThumb>
+
+			
+
+			<styles>				
+
+				<style>
+
+					<name>Bolt</name>
+
+					<thumb>bolt.jpg</thumb>
+
+					<cost>12.5</cost>				
+
+				</style>
+
+				
+
+				<style>
+
+					<name>Heart</name>
+
+					
+
+					<thumb>heart.jpg</thumb>
+
+					<cost>12.5</cost>				
+
+				</style>
+
+				
+
+				<style>
+
+					<name>Star</name>
+
+					<thumb>star.jpg</thumb>
+
+					<cost>12.5</cost>				
+
+				</style>
+
+				
+
+						<style>
+
+					<name>Anchor</name>
+
+					<thumb>anchor.jpg</thumb>
+
+					<cost>12.5</cost>				
+
+				</style>
+
+				
+
+				<style>
+
+					<name>None</name>
+			<id>148</id>
+					<isDefault>true</isDefault>
+
+					<thumb></thumb>
+
+					<cost>0</cost>				
+
+				</style>
+
+				
+
+
+
+			</styles>
+
+		</page>
+
+			<page>
+
+			<title><![CDATA[Place your order]]></title>	
+
+			<line1><![CDATA[Create a special matching set. These are just £12.50, £2.50 less than the usual price.]]></line1>
+
+	
+
+			<type>step8</type>
+
+			<defaultThumb>default.jpg</defaultThumb>
+
+
+
+		</page>
+
+		
+
+	</pages>
+
+
+
+</site>
