@@ -113,7 +113,7 @@ package
 					var style:XML;  					
 					for each(style in item.styles.style)
 					{										
-						stylesArray.push({name:style.name, isDefault:style.isDefault, thumb:style.thumb, cost: style.cost, earring:style.earring});
+						stylesArray.push({name:style.name, id: style.id, isDefault:style.isDefault, thumb:style.thumb, cost: style.cost, earring:style.earring});
 					
 						if(style.isDefault=="true")
 						{
@@ -139,7 +139,7 @@ package
 					for each(colour in item.styles.style)
 					{		
 							
-						coloursArray.push({name:colour.name, isDefault:colour.isDefault, thumb:colour.thumb, cost: colour.cost, colourType:colour.colour.type, colourHex:colour.colour.hex, colourTexture:colour.colour.texture });
+						coloursArray.push({name:colour.name, id:colour.id, isDefault:colour.isDefault, thumb:colour.thumb, cost: colour.cost, colourType:colour.colour.type, colourHex:colour.colour.hex, colourTexture:colour.colour.texture, Anchor:colour.earrings.Anchor, Star: colour.earrings.Star, Bolt: colour.earrings.Bolt, Anchor:colour.earrings.Anchor, None: colour.earrings.None });
 						
 						if(colour.isDefault=="true")
 						{
@@ -165,7 +165,7 @@ package
 					for each(charm in item.styles.style)
 					{		
 						
-						charmsArray.push({name:charm.name, isDefault:charm.isDefault, thumb:charm.thumb, cost: charm.cost });
+						charmsArray.push({name:charm.name, id:charm.id, isDefault:charm.isDefault, thumb:charm.thumb, cost: charm.cost });
 						
 						if(charm.isDefault=="true")
 						{
@@ -191,7 +191,7 @@ package
 					{		
 						
 						
-						sizesArray.push({name:size.name, isDefault:size.isDefault, thumb:size.thumb, cost: size.cost });
+						sizesArray.push({name:size.name, id:size.id, isDefault:size.isDefault, thumb:size.thumb, cost: size.cost });
 						
 						if(size.isDefault=="true")
 						{
@@ -218,7 +218,7 @@ package
 					{		
 						
 						
-						chainsArray.push({name:chain.name, isDefault:chain.isDefault, thumb:chain.thumb, cost: chain.cost });
+						chainsArray.push({name:chain.name, id:chain.id, isDefault:chain.isDefault, thumb:chain.thumb, cost: chain.cost });
 						
 						if(chain.isDefault=="true")
 						{
